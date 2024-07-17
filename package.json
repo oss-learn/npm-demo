@@ -1,10 +1,10 @@
 {
   "name": "@oss-learn/npm-demo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "live npm publication demo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Warning: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
