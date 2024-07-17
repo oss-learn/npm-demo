@@ -1,6 +1,6 @@
 {
   "name": "@oss-learn/npm-demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "live npm publication demo",
   "main": "index.js",
   "scripts": {
