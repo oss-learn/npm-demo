@@ -1,0 +1,19 @@
+{
+  "name": "@oss-learn/npm-demo",
+  "version": "1.0.0",
+  "description": "live npm publication demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oss-learn/npm-demo.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oss-learn/npm-demo/issues"
+  },
+  "homepage": "https://github.com/oss-learn/npm-demo#readme"
+}
